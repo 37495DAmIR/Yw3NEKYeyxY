@@ -75,7 +75,6 @@ print "K-nearest-neighbors:"
 print "%.3f" % accuracy(y, run_cv(X,y,KNN))
 
 from sklearn.metrics import confusion_matrix
-
 y = np.array(y)
 class_names = np.unique(y)
 
