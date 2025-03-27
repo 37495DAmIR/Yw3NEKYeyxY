@@ -33,7 +33,6 @@ features = churn_feat_space.columns
 X = churn_feat_space.as_matrix().astype(np.float)
 
 # This is important
-from sklearn.preprocessing import StandardScaler
 scaler = StandardScaler()
 X = scaler.fit_transform(X)
 
