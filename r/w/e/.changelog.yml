@@ -27,7 +27,6 @@ groups:
     labels:
       - type/enhancement
   -
-    name: PERFORMANCE
     labels:
       - performance/memory
       - performance/speed
