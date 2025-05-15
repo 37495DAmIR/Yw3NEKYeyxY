@@ -21,7 +21,6 @@ github:
   description: "Apache Libcloud is a Python library which hides differences between different cloud provider APIs and allows you to manage different cloud resources through a unified and easy to use API."
   homepage: https://libcloud.apache.org
   labels:
-    - python
     - library
     - cloud
     - libcloud
