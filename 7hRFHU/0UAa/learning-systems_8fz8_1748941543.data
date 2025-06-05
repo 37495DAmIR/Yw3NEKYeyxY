@@ -1,6 +1,5 @@
 # Ubuntu 20.04
 FROM ubuntu:focal
-
 # 切换默认shell为bash
 SHELL ["/bin/bash", "-c"]
 
